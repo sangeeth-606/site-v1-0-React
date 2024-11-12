@@ -40,3 +40,6 @@
 .read-the-docs {
   color: #888;
 }
+#taskklist::-webkit-scrollbar{
+  display: none;
+}
